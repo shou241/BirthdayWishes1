@@ -1,0 +1,20 @@
+.body_backgorund 
+{
+    background-image:url(http://www.lovethispic.com/uploaded_images/367867-Starry-Happy-Birthday-Gif.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width: 10px;
+   background-color: aliceblue;
+   border-style: ridge;
+   border-color: darkviolet;
+}
+
+
+#p1
+{
+color:olive;
+}
+
